@@ -13,5 +13,6 @@ IMPORTANT NOTE:
 Due to the Coursera: "Machine Learning" course policies I CAN´T upload the entire code of the following functions:
 1. ProcessEmail.m
 2. EmailFeatures.m
+3. gaussianKernel.m
 
 However, I do recommend you to try understand and complete the code by yourself.
